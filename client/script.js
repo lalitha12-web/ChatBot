@@ -86,7 +86,7 @@ const handleSubmit = async (e) => {
     // messageDiv.innerHTML = "..."
     loader(messageDiv)
 
-    const response = await fetch('https://chatbot-x5pl.onrender.com', {
+    const response = await fetch('https://chat-dy4w.onrender.com', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
